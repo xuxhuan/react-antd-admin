@@ -1,3 +1,5 @@
+#### react-antd-admin-server 是后端
+#### react-antd-admin-client 是前端
 ### 使用仓库相关命令
 #### 安装前端所有依赖
 ```bash
