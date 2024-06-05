@@ -1,5 +1,4 @@
 ### 使用仓库相关命令
-
 #### 安装前端所有依赖
 ```bash
 npm install
@@ -16,3 +15,5 @@ npm install
 ```bash
 npm start
 ```
+### 项目界面
+<img width="952" alt="b8fb4a5936821d8773852633cbb3310" src="https://github.com/xuxhuan/react-antd-admin/assets/131222879/a72184c2-fd85-4760-88d0-585ae8c1930a">
